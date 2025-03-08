@@ -25,21 +25,21 @@ Este repositório contém um projeto prático desenvolvido durante o curso de In
 ### 🔍 Exemplo de Análise de Imagem
 Aqui foi usado o recurso de Dense captioning do Vision Studio.
 Imagem utilizada:  
-![Exemplo de entrada](inputs/image.jpg)
+![Exemplo de entrada](inputs/image.jpeg)
 
 Saída gerada:  
 ![Resultado da análise](output/image.jpg)
 
 ### 📝 Exemplo de OCR
 Imagem original contendo texto:  
-![Texto original](inputs/image_ocr.jpg)
+![Texto original](inputs/image_ocr.jpeg)
 
 Saída gerada:  
 ![Resultado da análise](output/image_ocr.jpg)
 
 ### 📝 Exemplo de reconhecimenot de rostos
 Imagem original contendo rostos:  
-![Texto original](inputs/image_people.jpg)
+![Texto original](inputs/image_people.jpeg)
 
 Saída gerada:  
 ![Resultado da análise](output/image_people.jpg)
